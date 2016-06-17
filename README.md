@@ -138,6 +138,7 @@ Sketch вообще под Windows не работает, но есть почт
 - [Использование SVG](http://frontender.info/using-svg/)
 - [SVG](http://css.yoksel.ru/svg/)
 - [SVG в HTML — из иллюстратора в браузер](https://www.youtube.com/watch?v=S0OnkpIoEyQ)
+- [Я ♥ SVG](https://www.youtube.com/watch?v=BDXHS4N6LXk)
 
 ### SVG-спрайты
 - [SVG-спрайты](http://nicothin.pro/page/svg-sprites)
