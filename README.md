@@ -6,7 +6,7 @@
 
 ## Коротко
 
-- [Английский язык](#-Английский-язык)
+- [Английский язык](#Английский-язык)
 - [HTML и CSS](#html-и-css)
 - [Графические редакторы](#Графические-редакторы)
 - [Инструменты разработчика в браузере](#Инструменты-разработчика-в-браузере)
@@ -50,7 +50,7 @@
 - [HTML Academy](https://htmlacademy.ru/)
 - [Codecademy](https://www.codecademy.com/)
 
-### <span id="ui-editors"></span> Графические редакторы
+### Графические редакторы
 Самые популярные: Photoshop и Sketch.  
 В ~90% случаев Photoshop'а будет достаточно, дизайнеры только недавно начали переходить на Sketch.
 Sketch вообще под Windows не работает, но есть почти-решение в лице [zeplin](https://zeplin.io/)  
@@ -72,7 +72,7 @@ Sketch вообще под Windows не работает, но есть почт
 * [The Ultimate Front-End Developer's Guide to Photoshop](https://www.netguru.co/blog/photoshop-for-front-end-developers)
 * [A Web Developer’s Guide to Photoshop](http://rafaltomal.com/a-web-developerss-guide-to-photoshop/)
 
-### <span id="devtools"></span> Инструменты разработчика в браузере
+### Инструменты разработчика в браузере
 Это набор инструментов, помогающих быстро найти и исправить ошибку. Верстальщиками часто используется для поиска ответа на вопросы: “почему не отображается?”, “откуда такие размеры?”, “я же его перекрасил” и тд.  
 Умение пользоваться этими инструментами сохранит вам кучу времени и нервов.
 
@@ -86,18 +86,18 @@ Sketch вообще под Windows не работает, но есть почт
 <figcaption>Chrome DevTools</figcaption>
 </figure>
 
-### <span id="emmet"></span> Emmet
+### Emmet
 Набор сниппетов для HTML и CSS, дающий супер-скорость.  
 Лучше 1 раз почитать [документацию](http://docs.emmet.io/) и сразу начать использовать.
 
-### <span id="accessibility"></span> Семантика и доступность
+### Семантика и доступность
 - [Семантическая вёрстка. Часть первая](https://pepelsbey.net/2008/04/semantic-coding-1/)
 - [Искусство семантики HTML, часть 1](http://frontender.info/the-art-of-html-semantics-pt1/)
 - [Семантический HTML — рекомендация с большими выгодами](http://www.xiper.net/learn/tegofenshuj/about-semantic.html)
 - [Продвинутая семантика и доступность](https://webref.ru/layout/advanced-html-css/semantics-accessibility)
 - [Подстраховка web-доступности семантических областей HTML5 через роли WAI-ARIA](https://habrahabr.ru/post/240065/)
 
-### <span id="naming"></span> Правильное именование
+### Правильное именование
 Имена должны нести в себе смысл. Цель — сделать код хорошо читаемым и легко поддерживаемым.  
 У новичков часто можно встретить `<b class="b">`, `<div class="div13>"` и все в таком духе. Это неправильно.
 Также нельзя использовать транслитерацию `<div class="shapka">`.  
@@ -106,7 +106,7 @@ Sketch вообще под Windows не работает, но есть почт
 - [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
 - [How to name CSS classes](http://www.bdavid.xyz/how-to-name-css-classes/)
 
-### <span id="responsive"></span> Responsive/adaptive верстка
+### Responsive/adaptive верстка
 Больше половины трафика в интернете приходится на мобильные телефоны и сделать адаптивный сайт порой намного проще и быстрее, чем разработать отдельную версию под мобильные. Очень важно уметь делать этот вид работ, чтобы быть конкурентноспособным.  
 Большое преимущество — умение релизовывать поведение на мобильных устройствах без наличия макетов от дизайнера.
 
@@ -118,17 +118,17 @@ Sketch вообще под Windows не работает, но есть почт
 <img src="/images/ui-developer-skills/responsive.png" alt="Респонсив" style="width: 500px">
 </figure>
 
-### <span id="jquery"></span> jQuery
+### jQuery
 Вы должны знать jquery хотя бы на начальном уровне, чтобы подключать и настраивать тонны плагинов, написанные за многие годы популярности этой библиотеки.
 
 - [Учебник “jQuery для начинающих”](http://anton.shevchuk.name/jquery-book/)
 
-### <span id="fonts"></span> Подключение шрифтов
+### Подключение шрифтов
 - [Загрузка своего шрифта](https://webref.ru/layout/html5-css3/text/font-face)
 - [Как подключить шрифт](http://site4business.net/css/kak-podklyuchit-shrift.html)
 - [Подключение шрифта к странице: как нужно делать сейчас](http://nicothin.pro/page/web-fonts)
 
-### <span id="sprites"></span> Сборка спрайтов
+### Сборка спрайтов
 Спрайт — графический файл, в котором сгруппировано много изображений небольшого размера. Такая организация графики позволяет минимизировать количество запросов за сервер и ускорить загрузку сайта.  
 
 - [Введение в CSS спрайты для чайников](http://onjee.ru/css-sprites/)
@@ -141,29 +141,29 @@ Sketch вообще под Windows не работает, но есть почт
 <figcaption>Пример спрайта</figcaption>
 </figure>
 
-### <span id="image-optimization"></span> Оптимизация изображений
+### Оптимизация изображений
 Во времена быстрого интернета легко забыть о том, что нужно оптимизировать изображения. Недавно я проверял работу начинающего разработчика и прогнал изображения через оптимизатор. Картинки похудели на 86% (16 мегабайт). Вдумайтесь.  
 Также важно уметь выбрать оптимальный формат графики (jpg, png, gif, svg).
 
 - [Всё, что нужно знать об оптимизации изображений для сайта](http://ru.wix.com/blog/2014/07/%D0%BE%D0%BF%D1%82%D0%B8%D0%BC%D0%B8%D0%B7%D0%B0%D1%86%D0%B8%D1%8F-%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D0%B9-%D0%B4%D0%BB%D1%8F-%D1%81%D0%B0%D0%B9%D1%82%D0%B0/)
 - [Оптимизация изображений](https://developers.google.com/web/fundamentals/performance/optimizing-content-efficiency/image-optimization?hl=ru)
 
-### <span id="svg"></span> Работа с SVG
+### Работа с SVG
 - [Использование SVG](http://frontender.info/using-svg/)
 - [SVG](http://css.yoksel.ru/svg/)
 - [SVG в HTML — из иллюстратора в браузер](https://www.youtube.com/watch?v=S0OnkpIoEyQ)
 
-### <span id="svg-sprites"></span> SVG-спрайты
+### SVG-спрайты
 - [SVG-спрайты](http://nicothin.pro/page/svg-sprites)
 - [Масштабируем CSS спрайты с SVG, убивая сразу трех зайцев](https://habrahabr.ru/post/141654/)
 - [SVG спрайты — 4 способа использования векторных спрайтов](https://www.youtube.com/watch?v=S_wZSjLiUog)
 
-### <span id="animations"></span> CSS-анимации и плавные переходы
+### CSS-анимации и плавные переходы
 - [Плавные переходы (transition)](https://www.youtube.com/watch?v=QKRmRpq5CQc)
 - [Css Animation](http://css.yoksel.ru/css-animation/)
 - [Очень простое руководство по CSS3-анимациям](http://frontender.info/ochen-prostoe-rukovodstvo-po-css-animatsiyam/)
 
-### <span id="css-methodologies"></span> CSS-методологии
+### CSS-методологии
 Сотни их: OOCSS, BEM, SMACSS и тд. Не обязательно все использовать, но вы должны иметь представление о лучших практиках css-архитектуры.
 
 - [БЭМ](https://ru.bem.info/)
@@ -171,7 +171,7 @@ Sketch вообще под Windows не работает, но есть почт
 - [An Introduction To Object Oriented CSS (OOCSS)](https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/)
 - [Методологии верстки: БЭМ, AMCSS, OOCSS, Atomic CSS, OPOR, MCSS, SMACSS, FUN, DoCSSa](http://html5.by/blog/bem-amcss-oocss-atomiccss-opor-mcss-smacss-fun-docssa-video/)
 
-### <span id="css-frameworks"></span> CSS-фреймворки
+### CSS-фреймворки
 Я не рекомендую верстать на базе фреймворков, они предназначены, в первую очередь, для прототипирования. Их полезно изучать и понимать как реализованы компоненты.
 
 - [Bootstrap](http://getbootstrap.com/)
@@ -179,19 +179,19 @@ Sketch вообще под Windows не работает, но есть почт
 - [Pure](http://purecss.io/)
 - [Skeleton](http://getskeleton.com/)
 
-### <span id="email"></span> Верстка писем
+### Верстка писем
 Ад мира HTML-верстки. Привет из нулевых. Тут свои правила и до сих пор верстка таблицами. Звучит плохо, на деле еще хуже.
 
 - [Верстка email рассылок от А до Я для чайников](https://habrahabr.ru/post/252279/)
 - [How-to: Правила вёрстки email-писем](https://habrahabr.ru/company/pechkin/blog/255819/)
 - [Основы профессиональной верстки электронных писем](https://habrahabr.ru/post/180013/)
 
-### <span id="cli"></span> Командная строка
+### Командная строка
 Необходимый инструмент для доступа к радостям жизни: препроцессорам, компиляции шаблонов, запуску таск-раннеров, git и другим полезным вещам.
 
 - [Командная строка (cmd) для веб-мастера](http://gearmobile.github.io/web-tools/webmaster-command-line/)
 
-### <span id="git"></span> Git
+### Git
 Популярная система для хранения истории изменений и синхронизации результатов работы между участниками в проекте.
 
 - [Git - для новичков - #1 - основы](https://www.youtube.com/watch?v=PEKN8NtBDQ0)
@@ -203,7 +203,7 @@ Sketch вообще под Windows не работает, но есть почт
 - [Pro Git, второе издание](https://github.com/progit/progit2-ru)
 - [Коллекция часто задаваемых вопросов по Git с возможностью поиска](http://firstaidgit.ru/)
 
-### <span id="css-preprocessors"></span> CSS-препроцессоры
+### CSS-препроцессоры
 Препроцессоры ускоряют работу, упрощают жизнь и позволяют использовать много возможностей, которые еще не реализованы в браузерах.  
 
 - [Sass](http://sass-lang.com/)
@@ -212,7 +212,7 @@ Sketch вообще под Windows не работает, но есть почт
 - [PostCSS](http://postcss.org/) + [PreCSS](https://github.com/jonathantneal/precss) (одна из связок)
 - [Как работать с CSS-препроцессорами и БЭМ](http://nicothin.github.io/idiomatic-pre-CSS/)
 
-### <span id="templates"></span> Шаблонизаторы
+### Шаблонизаторы
 Представьте у вас 10 страниц и на каждой надо внести изменения в один и тот же блок. Это больно и долго.  
 Одна из возможностей шаблонизаторов — выделять повторяющиеся блоки в отдельные файлы. Вынесли блок, подключили на нужны страницах и все — теперь вы делаете в 10 раз меньше работы.
 
@@ -221,7 +221,7 @@ Sketch вообще под Windows не работает, но есть почт
 - [Twig](http://twig.sensiolabs.org/)
 - [Blade](https://laravel.com/docs/5.1/blade)
 
-### <span id="task-runners"></span> Автоматизация: таск-раннеры
+### Автоматизация: таск-раннеры
 Вся рутина должна быть автоматизирована. Примеры автоматизации — запуск препроцессоров и шаблонизаторов, оптимизация графики, сборка спрайтов, сжатие css и js.
 
 - [Gulp](http://gulpjs.com/)
@@ -232,7 +232,7 @@ Sketch вообще под Windows не работает, но есть почт
 - [Grunt](http://gruntjs.com/)
 - [A Simple Guide to Getting Started With Grunt](https://scotch.io/tutorials/a-simple-guide-to-getting-started-with-grunt)
 
-### <span id="testing"></span> Тестирование верстки
+### Тестирование верстки
 Плох тот разработчик, который не тестирует свою работу.
 
 - [Чек-лист вёрстки. Что можно отдавать клиенту, а что надо переделывать](https://habrahabr.ru/post/114256/)
