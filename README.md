@@ -81,11 +81,6 @@ Sketch вообще под Windows не работает, но есть почт
 - [Chrome DevTools, в помощь верстальщику](https://www.youtube.com/watch?v=eqJDcbNVe54)
 - [Инструменты разработчика Firefox](https://developer.mozilla.org/ru/docs/Tools)
 
-<figure class="-negative">
-<img src="/images/ui-developer-skills/devtools.png" alt="Chrome DevTools">
-<figcaption>Chrome DevTools</figcaption>
-</figure>
-
 ### Emmet
 Набор сниппетов для HTML и CSS, дающий супер-скорость.  
 Лучше 1 раз почитать [документацию](http://docs.emmet.io/) и сразу начать использовать.
@@ -114,10 +109,6 @@ Sketch вообще под Windows не работает, но есть почт
 - [Наглядно для заказчика: адаптивный и отзывчивый сайт — в чем разница](http://blog.sibirix.ru/2015/04/21/adaptive-responsive/)
 - [Beginner’s Guide to Responsive Web Design](http://blog.teamtreehouse.com/beginners-guide-to-responsive-web-design)
 
-<figure>
-<img src="/images/ui-developer-skills/responsive.png" alt="Респонсив" style="width: 500px">
-</figure>
-
 ### jQuery
 Вы должны знать jquery хотя бы на начальном уровне, чтобы подключать и настраивать тонны плагинов, написанные за многие годы популярности этой библиотеки.
 
@@ -135,11 +126,6 @@ Sketch вообще под Windows не работает, но есть почт
 - [Верстка с использованием CSS спрайтов](https://marahtanov.ru/edu/webp/reports/css_sprite.html)
 - [CSS Sprites: Image Slicing’s Kiss of Death](http://alistapart.com/article/sprites)
 - [CSS Sprites: What They Are, Why They’re Cool, and How To Use Them](https://css-tricks.com/css-sprites/)
-
-<figure>
-<img src="/images/ui-developer-skills/sprite-2x.png" alt="Пример спрайта" style="width: 225px">
-<figcaption>Пример спрайта</figcaption>
-</figure>
 
 ### Оптимизация изображений
 Во времена быстрого интернета легко забыть о том, что нужно оптимизировать изображения. Недавно я проверял работу начинающего разработчика и прогнал изображения через оптимизатор. Картинки похудели на 86% (16 мегабайт). Вдумайтесь.  
