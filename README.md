@@ -191,6 +191,7 @@ Sketch вообще под Windows не работает, но есть почт
 - [Шпаргалка по консольным командам Git](https://github.com/nicothin/web-development/tree/master/git)
 - [Pro Git, второе издание](https://github.com/progit/progit2-ru)
 - [Коллекция часто задаваемых вопросов по Git с возможностью поиска](http://firstaidgit.ru/)
+- [Learn Git in 30 Minutes](http://tutorialzine.com/2016/06/learn-git-in-30-minutes/)
 
 ### CSS-препроцессоры
 Препроцессоры ускоряют работу, упрощают жизнь и позволяют использовать много возможностей, которые еще не реализованы в браузерах.  
