@@ -99,7 +99,7 @@ Sketch вообще под Windows не работает, но есть почт
 Общепринятый язык для именования — английский.
 
 - [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
-- [How to name CSS classes](http://www.bdavid.xyz/how-to-name-css-classes/)
+- [How to name CSS classes](http://bdavidxyz.com/blog/how-to-name-css-classes/)
 
 ### Responsive/adaptive верстка
 Больше половины трафика в интернете приходится на мобильные телефоны и сделать адаптивный сайт порой намного проще и быстрее, чем разработать отдельную версию под мобильные. Очень важно уметь делать этот вид работ, чтобы быть конкурентноспособным.  
