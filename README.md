@@ -49,6 +49,12 @@
 - [Основы CSS/CSS3](https://www.youtube.com/playlist?list=PL026CCEB5125879C2)
 - [HTML Academy](https://htmlacademy.ru/)
 - [Codecademy](https://www.codecademy.com/)
+- [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
+- [HTML Dog:  HTML Tutorials](http://htmldog.com/guides/html/)
+- [HTML Dog:  CSS Tutorials](http://htmldog.com/guides/css/)
+- [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)
+- [Dash](https://dash.generalassemb.ly/)
+- [w3schools](http://www.w3schools.com/)
 
 ### Графические редакторы
 Самые популярные: Photoshop и Sketch.  
@@ -71,6 +77,9 @@ Sketch вообще под Windows не работает, но есть почт
 * [Экспорт слоев из Photoshop в один клик!](http://jnet.kz/httml/2014/03/13/eksport-sloev-iz-photoshop-v-odin-klik.html)
 * [The Ultimate Front-End Developer's Guide to Photoshop](https://www.netguru.co/blog/photoshop-for-front-end-developers)
 * [A Web Developer’s Guide to Photoshop](http://rafaltomal.com/a-web-developerss-guide-to-photoshop/)
+* [Photoshop Extensions for Front-end Developers](https://medium.com/@vilcins/photoshop-extensions-for-front-end-developers-3cfb480d421#.slmed8se0)
+* [
+Sketch vs. Photoshop: why & how I moved to Sketch 3 and am not going back](http://hackingui.com/sketch-design/why-i-moved-to-sketch/)
 
 ### Инструменты разработчика в браузере
 Это набор инструментов, помогающих быстро найти и исправить ошибку. Верстальщиками часто используется для поиска ответа на вопросы: “почему не отображается?”, “откуда такие размеры?”, “я же его перекрасил” и тд.  
@@ -80,6 +89,8 @@ Sketch вообще под Windows не работает, но есть почт
 - [Курс от codeschool](http://discover-devtools.codeschool.com/)
 - [Chrome DevTools, в помощь верстальщику](https://www.youtube.com/watch?v=eqJDcbNVe54)
 - [Инструменты разработчика Firefox](https://developer.mozilla.org/ru/docs/Tools)
+- [DevTools Tips](http://devtoolstips.com/)
+- [15 Must-Know Chrome DevTools Tips and Tricks](http://tutorialzine.com/2015/03/15-must-know-chrome-devtools-tips-tricks/)
 
 ### Emmet
 Набор сниппетов для HTML и CSS, дающий супер-скорость.  
@@ -91,6 +102,12 @@ Sketch вообще под Windows не работает, но есть почт
 - [Семантический HTML — рекомендация с большими выгодами](http://www.xiper.net/learn/tegofenshuj/about-semantic.html)
 - [Продвинутая семантика и доступность](https://webref.ru/layout/advanced-html-css/semantics-accessibility)
 - [Подстраховка web-доступности семантических областей HTML5 через роли WAI-ARIA](https://habrahabr.ru/post/240065/)
+- [Let’s Talk about Semantics](http://html5doctor.com/lets-talk-about-semantics/)
+- [HTML5 Semantics](https://www.smashingmagazine.com/2011/11/html5-semantics/)
+- [Extending Semantics & Accessibility](http://learn.shayhowe.com/advanced-html-css/semantics-accessibility/)
+- [Accessibility in HTML5](http://www.clarissapeterson.com/2012/11/html5-accessibility/)
+- [WebAIM](http://webaim.org/articles/)
+- [A Look Into Proper HTML5 Semantics](http://www.hongkiat.com/blog/html-5-semantics/)
 
 ### Правильное именование
 Имена должны нести в себе смысл. Цель — сделать код хорошо читаемым и легко поддерживаемым.  
@@ -100,6 +117,10 @@ Sketch вообще под Windows не работает, но есть почт
 
 - [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
 - [How to name CSS classes](http://bdavidxyz.com/blog/how-to-name-css-classes/)
+- [Naming CSS Stuff Is Really Hard](https://seesparkbox.com/foundry/naming_css_stuff_is_really_hard)
+- [Thoughts on semantic HTML class names and maintainability](http://brettjankord.com/2013/02/09/thoughts-on-semantic-html-class-names-and-maintainability/)
+- [What Makes For a Semantic Class Name?](https://css-tricks.com/semantic-class-names/)
+- [On class names, semantics and accessibility](https://thatemil.com/blog/2014/10/21/on-class-names-semantics-and-accessibility/)
 
 ### Responsive/adaptive верстка
 Больше половины трафика в интернете приходится на мобильные телефоны и сделать адаптивный сайт порой намного проще и быстрее, чем разработать отдельную версию под мобильные. Очень важно уметь делать этот вид работ, чтобы быть конкурентноспособным.  
@@ -157,6 +178,8 @@ Sketch вообще под Windows не работает, но есть почт
 - [SMACSS](https://smacss.com/)
 - [An Introduction To Object Oriented CSS (OOCSS)](https://www.smashingmagazine.com/2011/12/an-introduction-to-object-oriented-css-oocss/)
 - [Методологии верстки: БЭМ, AMCSS, OOCSS, Atomic CSS, OPOR, MCSS, SMACSS, FUN, DoCSSa](http://html5.by/blog/bem-amcss-oocss-atomiccss-opor-mcss-smacss-fun-docssa-video/)
+- [CSS Naming Conventions: Fewer Rules, more Fun](https://medium.com/@drublic/css-naming-conventions-less-rules-more-fun-12af220e949b#.mmx9dl41h)
+- [BEM 101](https://css-tricks.com/bem-101/)
 
 ### CSS-фреймворки
 Я не рекомендую верстать на базе фреймворков, они предназначены, в первую очередь, для прототипирования. Их полезно изучать и понимать как реализованы компоненты.
