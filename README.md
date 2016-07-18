@@ -128,17 +128,25 @@ Sketch vs. Photoshop: why & how I moved to Sketch 3 and am not going back](http:
 
 - [Адаптивно-отзывчивый: разбираемся в терминологии](http://frontender.info/adaptive-vs-responsive-terminology/)
 - [Наглядно для заказчика: адаптивный и отзывчивый сайт — в чем разница](http://blog.sibirix.ru/2015/04/21/adaptive-responsive/)
+- [The Difference Between Responsive and Adaptive Design](https://css-tricks.com/the-difference-between-responsive-and-adaptive-design/)
+- [Responsive Web Design](http://learn.shayhowe.com/advanced-html-css/responsive-web-design/)
 - [Beginner’s Guide to Responsive Web Design](http://blog.teamtreehouse.com/beginners-guide-to-responsive-web-design)
+- [Creating a Mobile-First Responsive Web Design](http://www.html5rocks.com/en/mobile/responsivedesign/)
 
 ### jQuery
 Вы должны знать jquery хотя бы на начальном уровне, чтобы подключать и настраивать тонны плагинов, написанные за многие годы популярности этой библиотеки.
 
 - [Учебник “jQuery для начинающих”](http://anton.shevchuk.name/jquery-book/)
+- [A guide to the basics of jQuery](http://jqfundamentals.com/)
+- [Learning Center](https://learn.jquery.com/)
+- [Learning jQuery](http://www.learningjquery.com/)
+- [jQuery Tutorial for Beginners: Nothing But the Goods](https://www.impressivewebs.com/jquery-tutorial-for-beginners/)
 
 ### Подключение шрифтов
 - [Загрузка своего шрифта](https://webref.ru/layout/html5-css3/text/font-face)
 - [Как подключить шрифт](http://site4business.net/css/kak-podklyuchit-shrift.html)
 - [Подключение шрифта к странице: как нужно делать сейчас](http://nicothin.pro/page/web-fonts)
+- [Using @font-face](https://css-tricks.com/snippets/css/using-font-face/)
 
 ### Сборка спрайтов
 Спрайт — графический файл, в котором сгруппировано много изображений небольшого размера. Такая организация графики позволяет минимизировать количество запросов за сервер и ускорить загрузку сайта.  
