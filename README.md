@@ -157,6 +157,7 @@ Sketch vs. Photoshop: why & how I moved to Sketch 3 and am not going back](http:
 - [Верстка с использованием CSS спрайтов](https://marahtanov.ru/edu/webp/reports/css_sprite.html)
 - [CSS Sprites: Image Slicing’s Kiss of Death](http://alistapart.com/article/sprites)
 - [CSS Sprites: What They Are, Why They’re Cool, and How To Use Them](https://css-tricks.com/css-sprites/)
+- [The Mystery Of CSS Sprites: Techniques, Tools And Tutorials](https://www.smashingmagazine.com/2009/04/the-mystery-of-css-sprites-techniques-tools-and-tutorials/)
 
 ### Оптимизация изображений
 Во времена быстрого интернета легко забыть о том, что нужно оптимизировать изображения. Недавно я проверял работу начинающего разработчика и прогнал изображения через оптимизатор. Картинки похудели на 86% (16 мегабайт). Вдумайтесь.  
@@ -170,16 +171,30 @@ Sketch vs. Photoshop: why & how I moved to Sketch 3 and am not going back](http:
 - [SVG](http://css.yoksel.ru/svg/)
 - [SVG в HTML — из иллюстратора в браузер](https://www.youtube.com/watch?v=S0OnkpIoEyQ)
 - [Я ♥ SVG](https://www.youtube.com/watch?v=BDXHS4N6LXk)
+- [Using SVG](https://css-tricks.com/using-svg/)
+- [SVG ON THE WEB — A Practical Guide](https://svgontheweb.com/)
+- [THE BEST WAY TO ADD AN SVG IMAGE TO YOUR WEBSITE](http://thoughtfulweb.com/thoughts/on/the-best-way-to-add-an-svg-image-to-your-website)
+- [Using SVGs](https://gomakethings.com/using-svgs/)
 
 ### SVG-спрайты
 - [SVG-спрайты](http://nicothin.pro/page/svg-sprites)
 - [Масштабируем CSS спрайты с SVG, убивая сразу трех зайцев](https://habrahabr.ru/post/141654/)
 - [SVG спрайты — 4 способа использования векторных спрайтов](https://www.youtube.com/watch?v=S_wZSjLiUog)
+- [Icon System with SVG Sprites](https://css-tricks.com/svg-sprites-use-better-icon-fonts/)
+- [An Overview of SVG Sprite Creation Techniques](https://24ways.org/2014/an-overview-of-svg-sprite-creation-techniques/)
+- [SVG Sprites and Icon Systems Are Super](https://lincolnloop.com/blog/svg-sprites-and-icon-systems-are-super/)
 
 ### CSS-анимации и плавные переходы
 - [Плавные переходы (transition)](https://www.youtube.com/watch?v=QKRmRpq5CQc)
 - [Css Animation](http://css.yoksel.ru/css-animation/)
 - [Очень простое руководство по CSS3-анимациям](http://frontender.info/ochen-prostoe-rukovodstvo-po-css-animatsiyam/)
+- [CSS3 Transitions 101: What are Transitions?](https://www.sitepoint.com/css3-transitions-101/)
+- [How to create CSS animations and Transitions](https://zurb.com/expo/lessons/how-to-create-css-animations-and-transitions)
+- [CSS Animation 101](https://cssanimation.rocks/courses/animation-101/)
+- [Transitions & Animations](http://learn.shayhowe.com/advanced-html-css/transitions-animations/)
+- [Bradshaw: CSS Transitions](http://css3.bradshawenterprises.com/transitions/)
+- [Bradshaw: CSS Animation](http://css3.bradshawenterprises.com/animations/)
+- [CSS Transitions and Transforms for Beginners](https://robots.thoughtbot.com/transitions-and-transforms)
 
 ### CSS-методологии
 Сотни их: OOCSS, BEM, SMACSS и тд. Не обязательно все использовать, но вы должны иметь представление о лучших практиках css-архитектуры.
