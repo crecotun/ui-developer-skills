@@ -220,6 +220,9 @@ Sketch vs. Photoshop: why & how I moved to Sketch 3 and am not going back](http:
 - [Верстка email рассылок от А до Я для чайников](https://habrahabr.ru/post/252279/)
 - [How-to: Правила вёрстки email-писем](https://habrahabr.ru/company/pechkin/blog/255819/)
 - [Основы профессиональной верстки электронных писем](https://habrahabr.ru/post/180013/)
+- [How to Code HTML Email Newsletters](https://www.sitepoint.com/how-to-code-html-email-newsletters/)
+- [Creating a Simple Responsive HTML Email](http://webdesign.tutsplus.com/articles/creating-a-simple-responsive-html-email--webdesign-12978)
+- [Your First Responsive Email Build With Foundation for Emails](http://webdesign.tutsplus.com/tutorials/your-first-responsive-email-build-with-foundation-for-emails--cms-26349)
 
 ### Командная строка
 Необходимый инструмент для доступа к радостям жизни: препроцессорам, компиляции шаблонов, запуску таск-раннеров, git и другим полезным вещам.
