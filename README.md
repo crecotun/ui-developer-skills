@@ -128,6 +128,7 @@ Sketch vs. Photoshop: why & how I moved to Sketch 3 and am not going back](http:
 
 - [Адаптивно-отзывчивый: разбираемся в терминологии](http://frontender.info/adaptive-vs-responsive-terminology/)
 - [Наглядно для заказчика: адаптивный и отзывчивый сайт — в чем разница](http://blog.sibirix.ru/2015/04/21/adaptive-responsive/)
+- [Делать ли мобильную версию? 5 распространенных проблем, которые решает адаптивная верстка. Опыт Яндекса](https://habrahabr.ru/company/yandex/blog/307064/)
 - [The Difference Between Responsive and Adaptive Design](https://css-tricks.com/the-difference-between-responsive-and-adaptive-design/)
 - [Responsive Web Design](http://learn.shayhowe.com/advanced-html-css/responsive-web-design/)
 - [Beginner’s Guide to Responsive Web Design](http://blog.teamtreehouse.com/beginners-guide-to-responsive-web-design)
