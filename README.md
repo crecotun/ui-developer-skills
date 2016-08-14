@@ -150,6 +150,8 @@ Sketch vs. Photoshop: why & how I moved to Sketch 3 and am not going back](http:
 - [Using @font-face](https://css-tricks.com/snippets/css/using-font-face/)
 - [Web Font Anti-Patterns](http://bramstein.com/writing/web-font-anti-patterns.html)
 - [USING WEB FONTS THE BEST WAY](https://helloanselm.com/2015/using-webfonts-in-2015/)
+- [WEB FONT ANTI-PATTERN: DATA URIS](https://www.zachleat.com/web/web-font-data-uris/)
+- [CRITICAL WEB FONTS](https://www.zachleat.com/web/critical-webfonts/)
 
 ### Сборка спрайтов
 Спрайт — графический файл, в котором сгруппировано много изображений небольшого размера. Такая организация графики позволяет минимизировать количество запросов за сервер и ускорить загрузку сайта.  
