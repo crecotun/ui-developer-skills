@@ -43,11 +43,6 @@
 - [duolingo](https://ru.duolingo.com/)
 
 ### HTML и CSS
-- [Уроки по HTML и CSS](https://webref.ru/layout/learn-html-css) (бывший [htmlbook](http://htmlbook.ru/)) [ru]
-- [Самоучитель HTML4](http://htmlbook.ru/samhtml) [ru]
-- [Самоучитель CSS](http://htmlbook.ru/samcss) [ru]
-- [Основы CSS/CSS3](https://www.youtube.com/playlist?list=PL026CCEB5125879C2) [ru]
-- [HTML Academy](https://htmlacademy.ru/) [ru]
 - [Codecademy](https://www.codecademy.com/) [en]
 - [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/) [en]
 - [HTML Dog:  HTML Tutorials](http://htmldog.com/guides/html/) [en]
@@ -55,6 +50,11 @@
 - [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css) [en]
 - [Dash](https://dash.generalassemb.ly/) [en]
 - [w3schools](http://www.w3schools.com/) [en]
+- [Уроки по HTML и CSS](https://webref.ru/layout/learn-html-css) (бывший [htmlbook](http://htmlbook.ru/)) [ru]
+- [Самоучитель HTML4](http://htmlbook.ru/samhtml) [ru]
+- [Самоучитель CSS](http://htmlbook.ru/samcss) [ru]
+- [Основы CSS/CSS3](https://www.youtube.com/playlist?list=PL026CCEB5125879C2) [ru]
+- [HTML Academy](https://htmlacademy.ru/) [ru]
 
 ### Графические редакторы
 Самые популярные: Photoshop и Sketch.  
@@ -69,45 +69,45 @@ Sketch вообще под Windows не работает, но есть почт
 
 <span></span>
 
-* [Photoshop для кодера](http://xiper.net/learn/photoshop/)
-* [Photoshop для HTML‑верстальщика](http://nicothin.pro/page/photoshop-dlja-html-verstalshhika)
-* [Photoshop экшены для верстальщика](http://vovanr.com/posts/photoshop-actions/)
-* [Photoshop - пример нарезки макета для верстки](http://gearmobile.github.io/photoshop/photoshop-example-cutting-mockup/)
-* [Нарезка в Photoshop — New Layer Based Slice](http://paulradzkov.com/2012/photoshop_new_layer_based_slice/)
-* [Экспорт слоев из Photoshop в один клик!](http://jnet.kz/httml/2014/03/13/eksport-sloev-iz-photoshop-v-odin-klik.html)
-* [The Ultimate Front-End Developer's Guide to Photoshop](https://www.netguru.co/blog/photoshop-for-front-end-developers)
-* [A Web Developer’s Guide to Photoshop](http://rafaltomal.com/a-web-developerss-guide-to-photoshop/)
-* [Photoshop Extensions for Front-end Developers](https://medium.com/@vilcins/photoshop-extensions-for-front-end-developers-3cfb480d421#.slmed8se0)
+* [The Ultimate Front-End Developer's Guide to Photoshop](https://www.netguru.co/blog/photoshop-for-front-end-developers) [en]
+* [A Web Developer’s Guide to Photoshop](http://rafaltomal.com/a-web-developerss-guide-to-photoshop/) [en]
+* [Photoshop Extensions for Front-end Developers](https://medium.com/@vilcins/photoshop-extensions-for-front-end-developers-3cfb480d421#.slmed8se0) [en]
 * [
-Sketch vs. Photoshop: why & how I moved to Sketch 3 and am not going back](http://hackingui.com/sketch-design/why-i-moved-to-sketch/)
+Sketch vs. Photoshop: why & how I moved to Sketch 3 and am not going back](http://hackingui.com/sketch-design/why-i-moved-to-sketch/) [en]
+* [Photoshop для кодера](http://xiper.net/learn/photoshop/) [ru]
+* [Photoshop для HTML‑верстальщика](http://nicothin.pro/page/photoshop-dlja-html-verstalshhika) [ru]
+* [Photoshop экшены для верстальщика](http://vovanr.com/posts/photoshop-actions/) [ru]
+* [Photoshop - пример нарезки макета для верстки](http://gearmobile.github.io/photoshop/photoshop-example-cutting-mockup/) [ru]
+* [Нарезка в Photoshop — New Layer Based Slice](http://paulradzkov.com/2012/photoshop_new_layer_based_slice/) [ru]
+* [Экспорт слоев из Photoshop в один клик!](http://jnet.kz/httml/2014/03/13/eksport-sloev-iz-photoshop-v-odin-klik.html) [ru]
 
 ### Инструменты разработчика в браузере
 Это набор инструментов, помогающих быстро найти и исправить ошибку. Верстальщиками часто используется для поиска ответа на вопросы: “почему не отображается?”, “откуда такие размеры?”, “я же его перекрасил” и тд.  
 Умение пользоваться этими инструментами сохранит вам кучу времени и нервов.
 
-- [Chrome DevTools](https://developer.chrome.com/devtools)
-- [Курс от codeschool](http://discover-devtools.codeschool.com/)
-- [Chrome DevTools, в помощь верстальщику](https://www.youtube.com/watch?v=eqJDcbNVe54)
-- [Инструменты разработчика Firefox](https://developer.mozilla.org/ru/docs/Tools)
-- [DevTools Tips](http://devtoolstips.com/)
-- [15 Must-Know Chrome DevTools Tips and Tricks](http://tutorialzine.com/2015/03/15-must-know-chrome-devtools-tips-tricks/)
+- [Chrome DevTools](https://developer.chrome.com/devtools) [en]
+- [Курс от codeschool](http://discover-devtools.codeschool.com/) [en]
+- [DevTools Tips](http://devtoolstips.com/) [en]
+- [15 Must-Know Chrome DevTools Tips and Tricks](http://tutorialzine.com/2015/03/15-must-know-chrome-devtools-tips-tricks/) [en]
+- [Chrome DevTools, в помощь верстальщику](https://www.youtube.com/watch?v=eqJDcbNVe54) [ru]
+- [Инструменты разработчика Firefox](https://developer.mozilla.org/ru/docs/Tools) [ru]
 
 ### Emmet
 Набор сниппетов для HTML и CSS, дающий супер-скорость.  
 Лучше 1 раз почитать [документацию](http://docs.emmet.io/) и сразу начать использовать.
 
 ### Семантика и доступность
-- [Семантическая вёрстка. Часть первая](https://pepelsbey.net/2008/04/semantic-coding-1/)
-- [Искусство семантики HTML, часть 1](http://frontender.info/the-art-of-html-semantics-pt1/)
-- [Семантический HTML — рекомендация с большими выгодами](http://www.xiper.net/learn/tegofenshuj/about-semantic.html)
-- [Продвинутая семантика и доступность](https://webref.ru/layout/advanced-html-css/semantics-accessibility)
-- [Подстраховка web-доступности семантических областей HTML5 через роли WAI-ARIA](https://habrahabr.ru/post/240065/)
-- [Let’s Talk about Semantics](http://html5doctor.com/lets-talk-about-semantics/)
-- [HTML5 Semantics](https://www.smashingmagazine.com/2011/11/html5-semantics/)
-- [Extending Semantics & Accessibility](http://learn.shayhowe.com/advanced-html-css/semantics-accessibility/)
-- [Accessibility in HTML5](http://www.clarissapeterson.com/2012/11/html5-accessibility/)
-- [WebAIM](http://webaim.org/articles/)
-- [A Look Into Proper HTML5 Semantics](http://www.hongkiat.com/blog/html-5-semantics/)
+- [Let’s Talk about Semantics](http://html5doctor.com/lets-talk-about-semantics/) [en]
+- [HTML5 Semantics](https://www.smashingmagazine.com/2011/11/html5-semantics/) [en]
+- [Extending Semantics & Accessibility](http://learn.shayhowe.com/advanced-html-css/semantics-accessibility/) [en]
+- [Accessibility in HTML5](http://www.clarissapeterson.com/2012/11/html5-accessibility/) [en]
+- [WebAIM](http://webaim.org/articles/) [en]
+- [A Look Into Proper HTML5 Semantics](http://www.hongkiat.com/blog/html-5-semantics/) [en]
+- [Семантическая вёрстка. Часть первая](https://pepelsbey.net/2008/04/semantic-coding-1/) [ru]
+- [Искусство семантики HTML, часть 1](http://frontender.info/the-art-of-html-semantics-pt1/) [ru]
+- [Семантический HTML — рекомендация с большими выгодами](http://www.xiper.net/learn/tegofenshuj/about-semantic.html) [ru]
+- [Продвинутая семантика и доступность](https://webref.ru/layout/advanced-html-css/semantics-accessibility) [ru]
+- [Подстраховка web-доступности семантических областей HTML5 через роли WAI-ARIA](https://habrahabr.ru/post/240065/) [ru]
 
 ### Правильное именование
 Имена должны нести в себе смысл. Цель — сделать код хорошо читаемым и легко поддерживаемым.  
@@ -115,12 +115,12 @@ Sketch vs. Photoshop: why & how I moved to Sketch 3 and am not going back](http:
 Также нельзя использовать транслитерацию `<div class="shapka">`.  
 Общепринятый язык для именования — английский.
 
-- [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words)
-- [How to name CSS classes](http://bdavidxyz.com/blog/how-to-name-css-classes/)
-- [Naming CSS Stuff Is Really Hard](https://seesparkbox.com/foundry/naming_css_stuff_is_really_hard)
-- [Thoughts on semantic HTML class names and maintainability](http://brettjankord.com/2013/02/09/thoughts-on-semantic-html-class-names-and-maintainability/)
-- [What Makes For a Semantic Class Name?](https://css-tricks.com/semantic-class-names/)
-- [On class names, semantics and accessibility](https://thatemil.com/blog/2014/10/21/on-class-names-semantics-and-accessibility/)
+- [Слова, часто используемые в CSS-классах](https://github.com/yoksel/common-words) [ru]
+- [How to name CSS classes](http://bdavidxyz.com/blog/how-to-name-css-classes/) [en]
+- [Naming CSS Stuff Is Really Hard](https://seesparkbox.com/foundry/naming_css_stuff_is_really_hard) [en]
+- [Thoughts on semantic HTML class names and maintainability](http://brettjankord.com/2013/02/09/thoughts-on-semantic-html-class-names-and-maintainability/) [en]
+- [What Makes For a Semantic Class Name?](https://css-tricks.com/semantic-class-names/) [en]
+- [On class names, semantics and accessibility](https://thatemil.com/blog/2014/10/21/on-class-names-semantics-and-accessibility/) [en]
 
 ### Responsive/adaptive верстка
 Больше половины трафика в интернете приходится на мобильные телефоны и сделать адаптивный сайт порой намного проще и быстрее, чем разработать отдельную версию под мобильные. Очень важно уметь делать этот вид работ, чтобы быть конкурентноспособным.  
