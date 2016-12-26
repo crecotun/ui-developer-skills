@@ -43,18 +43,18 @@
 - [duolingo](https://ru.duolingo.com/)
 
 ### HTML и CSS
-- [Уроки по HTML и CSS](https://webref.ru/layout/learn-html-css) (бывший [htmlbook](http://htmlbook.ru/))
-- [Самоучитель HTML4](http://htmlbook.ru/samhtml)
-- [Самоучитель CSS](http://htmlbook.ru/samcss)
-- [Основы CSS/CSS3](https://www.youtube.com/playlist?list=PL026CCEB5125879C2)
-- [HTML Academy](https://htmlacademy.ru/)
-- [Codecademy](https://www.codecademy.com/)
-- [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)
-- [HTML Dog:  HTML Tutorials](http://htmldog.com/guides/html/)
-- [HTML Dog:  CSS Tutorials](http://htmldog.com/guides/css/)
-- [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css)
-- [Dash](https://dash.generalassemb.ly/)
-- [w3schools](http://www.w3schools.com/)
+- [Уроки по HTML и CSS](https://webref.ru/layout/learn-html-css) (бывший [htmlbook](http://htmlbook.ru/)) [ru]
+- [Самоучитель HTML4](http://htmlbook.ru/samhtml) [ru]
+- [Самоучитель CSS](http://htmlbook.ru/samcss) [ru]
+- [Основы CSS/CSS3](https://www.youtube.com/playlist?list=PL026CCEB5125879C2) [ru]
+- [HTML Academy](https://htmlacademy.ru/) [ru]
+- [Codecademy](https://www.codecademy.com/) [en]
+- [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/) [en]
+- [HTML Dog:  HTML Tutorials](http://htmldog.com/guides/html/) [en]
+- [HTML Dog:  CSS Tutorials](http://htmldog.com/guides/css/) [en]
+- [Intro to HTML/CSS: Making webpages](https://www.khanacademy.org/computing/computer-programming/html-css) [en]
+- [Dash](https://dash.generalassemb.ly/) [en]
+- [w3schools](http://www.w3schools.com/) [en]
 
 ### Графические редакторы
 Самые популярные: Photoshop и Sketch.  
